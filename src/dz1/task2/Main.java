@@ -1,4 +1,4 @@
-package dz1.task1;
+package dz1.task2;
 
 import java.util.ArrayList;
 import java.util.Iterator;
